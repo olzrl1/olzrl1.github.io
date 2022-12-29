@@ -112,10 +112,10 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-       url: "thory112@naver.com"
+      url: "thory112@naver.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: "https://github.com/olzrl1"
+      url: "https://github.com/olzrl1"
     
 
 # Site Footer
